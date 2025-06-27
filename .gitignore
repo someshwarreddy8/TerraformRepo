@@ -1,0 +1,10 @@
+# *logs/	Ignores any folder ending with logs/ (like debug-logs/) in the root directory
+# **/.terraform/	Ignores any folder named .terraform/ at any depth
+# **/.terraform/* Ignore all files and folders directly inside any .terraform directory, regardless of where that .terraform directory appears in your project.
+**/.terraform/*
+
+**/.terraform.lock.hcl
+**/terraform.tfstate.backup
+
+# Ignores any file ending with .tfstate (like terraform.tfstate)
+*.tfstate 
