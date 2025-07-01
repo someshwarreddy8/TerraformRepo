@@ -18,7 +18,7 @@ resource "aws_internet_gateway" "myinternetgatewaycreation" {
 resource "aws_subnet" "pubsub1creation" {
   vpc_id     = aws_vpc.vpccreation.id
   cidr_block = "10.0.0.0/26"
-  depends_on = [ aws_vpc.vpccreation ]
+  depends_on = [aws_vpc.vpccreation]
 
   tags = {
     Name = "pubsub1"
@@ -29,7 +29,7 @@ resource "aws_subnet" "pubsub1creation" {
 resource "aws_subnet" "pvtsub2creation" {
   vpc_id     = aws_vpc.vpccreation.id
   cidr_block = "10.0.0.64/26"
-  depends_on = [ aws_vpc.vpccreation ]
+  depends_on = [aws_vpc.vpccreation]
 
   tags = {
     Name = "pvtsub2"
