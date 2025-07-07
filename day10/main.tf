@@ -6,7 +6,7 @@ resource "aws_vpc" "customvpc" {
   }
   enable_dns_hostnames = true
   enable_dns_support = true
-  
+
 }
 
 resource "aws_subnet" "pubsub1" {
