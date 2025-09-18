@@ -1,2 +1,46 @@
 #abhi sir terraform git repo
 github.com/abhi1563/Terraform_eve
+
+Good point 👍
+If the "vendor" is actually your current organization (your employer), then on your resume it’s clearer and more professional to write it that way instead of saying vendor. Recruiters might get confused if you mention vendor.
+
+Here’s how you can word it:
+
+
+---
+
+Option 1 – Separate Awards Section
+
+Awards & Recognition
+
+Spot Award – Conferred by client for exceptional contribution to project success.
+
+Certificate of Appreciation – Presented by [Your Organization’s Name] in recognition of Spot Award achievement.
+
+
+
+---
+
+Option 2 – Within Work Experience
+
+Software Engineer | [Your Organization Name] | [Dates]
+
+Received a Spot Award from client for outstanding contribution to project delivery.
+
+Honored with a Certificate of Appreciation from [Your Organization Name] in recognition of the client award.
+
+
+
+---
+
+This way:
+
+The client recognition (Spot Award) shows your direct impact on the project.
+
+The organization recognition (Certificate) shows that your company values your contribution too.
+
+
+👉 So instead of saying vendor, always use “organization” or your company’s name on your resume.
+
+Would you like me to draft a polished single-line bullet combining both, so it looks crisp on your resume?
+
